@@ -1,11 +1,5 @@
 # Python Hangman Game
 
-# print("Hi how are you! This is a python script of classical game Hangman"
-#       "\nThe word to guess is represented by a row of dashes"
-#       "\nIf the player guess a letter which exists in the word, the script writes it in all its correct positions"
-#       "\nThe player has 10 turns to guess the word")
-#
-
 
 # how many guesses the player has
 
