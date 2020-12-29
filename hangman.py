@@ -25,6 +25,8 @@
 # choose a random word
 
 import random
+import time
+
 random_words = ("watar","airpad","bathraom","spaan")
 word = random.choice(random_words)
 
